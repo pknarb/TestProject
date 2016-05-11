@@ -7,4 +7,8 @@ public class TestClass {
 		a = 4;
 	}
 
+	int multiplyTwoNumbers(int a, int b) {
+		return a * b;
+	}
+
 }
