@@ -7,14 +7,13 @@ public class TestClass {
 		a = 4;
 	}
 
-<<<<<<< HEAD
 	int multiplyTwoNumbers(int a, int b) {
 		return a * b;
-=======
+
 	// This feature was added on the branch
 	public int addTwoNumbers(int a, int b) {
 		return a + b;
->>>>>>> NewFeature1
+
 	}
 
 }
