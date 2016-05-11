@@ -1,7 +1,7 @@
 
 public class TestClass {
 
-	int a;
+	final int a;
 
 	TestClass() {
 		a = 4;
